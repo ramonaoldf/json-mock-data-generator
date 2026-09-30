@@ -125,7 +125,7 @@ A very simple configuration file could look like this:
 First, clone or fork the repository:
 
 ```
-$ git clone git@github.com:ttulka/json-mock-data-generator.git
+$ git clone git@github.com:ramonaoldf/json-mock-data-generator.git
 $ cd json-mock-data-generator
 ```
 Now build it:
